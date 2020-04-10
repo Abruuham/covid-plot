@@ -12,7 +12,7 @@ To learn more about how to add markers or how to customize the map and animate i
 
 ### Try it out
 
-All you need to run this project on your computer is git and an IDE of your choice that can run javascript on. I used Visual Studio Code.
+All you need to run this project on your computer is git and an IDE of your choice that can run javascript on. I used Visual Studio Code. If you're using VS Code, i recommend installing the Live Server extension so that changes are automatically applied to the browser and you can see the work that is being done.
 
 To clone this project, what I did first was create a folder on my machine where I wanted to download the project to. Then, copy the directoy of the folder that you just created. 
 Open a terminal and "cd" into the folder. Then follow the steps below:
