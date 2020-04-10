@@ -1,0 +1,821 @@
+[
+    {
+        "attributes": {
+            "NAME": "Riverside",
+            "NAMELSAD": "Riverside city",
+            "OBJECTID": 1,
+            "Point_Count": 211,
+            "Shape__Area": 0.0206009713692765,
+            "Shape__Length": 1.06927397901312,
+            "Sum_Deceased": 6,
+            "X": -117.394823174904,
+            "Y": 33.938126709709
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Moreno Valley",
+            "NAMELSAD": "Moreno Valley city",
+            "OBJECTID": 2,
+            "Point_Count": 129,
+            "Shape__Area": 0.0129971505689355,
+            "Shape__Length": 0.792905281801324,
+            "Sum_Deceased": 4,
+            "X": -117.204494026317,
+            "Y": 33.9244293189084
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Corona",
+            "NAMELSAD": "Corona city",
+            "OBJECTID": 3,
+            "Point_Count": 58,
+            "Shape__Area": 0.0100954076822291,
+            "Shape__Length": 1.10061189860457,
+            "Sum_Deceased": 2,
+            "X": -117.564917420928,
+            "Y": 33.861625425255
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Lake Elsinore",
+            "NAMELSAD": "Lake Elsinore city",
+            "OBJECTID": 4,
+            "Point_Count": 42,
+            "Shape__Area": 0.0109650155359304,
+            "Shape__Length": 0.925946656857694,
+            "Sum_Deceased": 1,
+            "X": -117.334392192576,
+            "Y": 33.6846798646129
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Beaumont",
+            "NAMELSAD": "Beaumont city",
+            "OBJECTID": 5,
+            "Point_Count": 25,
+            "Shape__Area": 0.00765779876337547,
+            "Shape__Length": 0.781416040677008,
+            "Sum_Deceased": 2,
+            "X": -116.976567288536,
+            "Y": 33.9075917462801
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Hemet",
+            "NAMELSAD": "Hemet city",
+            "OBJECTID": 6,
+            "Point_Count": 27,
+            "Shape__Area": 0.00737422788961339,
+            "Shape__Length": 0.72314304784478,
+            "Sum_Deceased": 0,
+            "X": -116.996890435533,
+            "Y": 33.7340556717493
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Norco",
+            "NAMELSAD": "Norco city",
+            "OBJECTID": 7,
+            "Point_Count": 6,
+            "Shape__Area": 0.00354891913798383,
+            "Shape__Length": 0.367092253263834,
+            "Sum_Deceased": 0,
+            "X": -117.549831774247,
+            "Y": 33.9252442961649
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Cathedral City",
+            "NAMELSAD": "Cathedral City city",
+            "OBJECTID": 8,
+            "Point_Count": 39,
+            "Shape__Area": 0.00573707215789909,
+            "Shape__Length": 0.582636152363106,
+            "Sum_Deceased": 1,
+            "X": -116.46422911442,
+            "Y": 33.8362170434607
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "San Jacinto",
+            "NAMELSAD": "San Jacinto city",
+            "OBJECTID": 9,
+            "Point_Count": 10,
+            "Shape__Area": 0.00658564488071534,
+            "Shape__Length": 0.596042870757244,
+            "Sum_Deceased": 0,
+            "X": -116.99153691626,
+            "Y": 33.7969923780455
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Palm Desert",
+            "NAMELSAD": "Palm Desert city",
+            "OBJECTID": 10,
+            "Point_Count": 51,
+            "Shape__Area": 0.00680726168707224,
+            "Shape__Length": 0.619816734126192,
+            "Sum_Deceased": 2,
+            "X": -116.369556429171,
+            "Y": 33.7378020511012
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Menifee",
+            "NAMELSAD": "Menifee city",
+            "OBJECTID": 11,
+            "Point_Count": 49,
+            "Shape__Area": 0.0117416675650475,
+            "Shape__Length": 0.679048607343825,
+            "Sum_Deceased": 1,
+            "X": -117.184897752423,
+            "Y": 33.690950662936
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Wildomar",
+            "NAMELSAD": "Wildomar city",
+            "OBJECTID": 12,
+            "Point_Count": 22,
+            "Shape__Area": 0.00596065768081644,
+            "Shape__Length": 0.354102719159334,
+            "Sum_Deceased": 1,
+            "X": -117.258247369175,
+            "Y": 33.6172796271452
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Calimesa",
+            "NAMELSAD": "Calimesa city",
+            "OBJECTID": 13,
+            "Point_Count": 3,
+            "Shape__Area": 0.00375460791610749,
+            "Shape__Length": 0.419438925354746,
+            "Sum_Deceased": 0,
+            "X": -117.054211889891,
+            "Y": 33.9873410304714
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Canyon Lake",
+            "NAMELSAD": "Canyon Lake city",
+            "OBJECTID": 14,
+            "Point_Count": 4,
+            "Shape__Area": 0.0011723679347142,
+            "Shape__Length": 0.193090501741993,
+            "Sum_Deceased": 0,
+            "X": -117.262071947275,
+            "Y": 33.6884572889172
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Coachella",
+            "NAMELSAD": "Coachella city",
+            "OBJECTID": 15,
+            "Point_Count": 42,
+            "Shape__Area": 0.00757443719658113,
+            "Shape__Length": 0.610727532079182,
+            "Sum_Deceased": 0,
+            "X": -116.143049256512,
+            "Y": 33.6905453984882
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Indian Wells",
+            "NAMELSAD": "Indian Wells city",
+            "OBJECTID": 16,
+            "Point_Count": 9,
+            "Shape__Area": 0.00367531530400811,
+            "Shape__Length": 0.305620706515562,
+            "Sum_Deceased": 0,
+            "X": -116.339575287861,
+            "Y": 33.7036263870541
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "La Quinta",
+            "NAMELSAD": "La Quinta city",
+            "OBJECTID": 17,
+            "Point_Count": 28,
+            "Shape__Area": 0.00898120118131374,
+            "Shape__Length": 0.598371672457755,
+            "Sum_Deceased": 0,
+            "X": -116.278495615631,
+            "Y": 33.6536279776564
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Banning",
+            "NAMELSAD": "Banning city",
+            "OBJECTID": 18,
+            "Point_Count": 49,
+            "Shape__Area": 0.00587737774731067,
+            "Shape__Length": 0.799499606197838,
+            "Sum_Deceased": 1,
+            "X": -116.899190583852,
+            "Y": 33.9460382028284
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Rancho Mirage",
+            "NAMELSAD": "Rancho Mirage city",
+            "OBJECTID": 19,
+            "Point_Count": 19,
+            "Shape__Area": 0.00648874435137259,
+            "Shape__Length": 0.51516154387661,
+            "Sum_Deceased": 3,
+            "X": -116.427088410138,
+            "Y": 33.7634794765179
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Temecula",
+            "NAMELSAD": "Temecula city",
+            "OBJECTID": 20,
+            "Point_Count": 56,
+            "Shape__Area": 0.00936721120274342,
+            "Shape__Length": 0.723507094536823,
+            "Sum_Deceased": 0,
+            "X": -117.131458713005,
+            "Y": 33.4927714507288
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Desert Hot Springs",
+            "NAMELSAD": "Desert Hot Springs city",
+            "OBJECTID": 21,
+            "Point_Count": 13,
+            "Shape__Area": 0.00773252845442585,
+            "Shape__Length": 0.739710801490648,
+            "Sum_Deceased": 0,
+            "X": -116.54304310822,
+            "Y": 33.9550642920659
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Palm Springs",
+            "NAMELSAD": "Palm Springs city",
+            "OBJECTID": 22,
+            "Point_Count": 62,
+            "Shape__Area": 0.0238758513730772,
+            "Shape__Length": 1.42632673837433,
+            "Sum_Deceased": 8,
+            "X": -116.538183727252,
+            "Y": 33.8017162313104
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Jurupa Valley",
+            "NAMELSAD": "Jurupa Valley city",
+            "OBJECTID": 23,
+            "Point_Count": 25,
+            "Shape__Area": 0.011039988495213,
+            "Shape__Length": 0.519153000167264,
+            "Sum_Deceased": 0,
+            "X": -117.470524270073,
+            "Y": 34.001032310515
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Blythe",
+            "NAMELSAD": "Blythe city",
+            "OBJECTID": 24,
+            "Point_Count": 2,
+            "Shape__Area": 0.00689221166157949,
+            "Shape__Length": 1.01222660927692,
+            "Sum_Deceased": 0,
+            "X": -114.619442762174,
+            "Y": 33.6218717263791
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Indio",
+            "NAMELSAD": "Indio city",
+            "OBJECTID": 25,
+            "Point_Count": 61,
+            "Shape__Area": 0.00837425040958806,
+            "Shape__Length": 0.75824822729587,
+            "Sum_Deceased": 2,
+            "X": -116.234596621288,
+            "Y": 33.7346229373989
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Perris",
+            "NAMELSAD": "Perris city",
+            "OBJECTID": 26,
+            "Point_Count": 48,
+            "Shape__Area": 0.00798520528246627,
+            "Shape__Length": 0.695589969766663,
+            "Sum_Deceased": 0,
+            "X": -117.223327369009,
+            "Y": 33.7899073014031
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Eastvale",
+            "NAMELSAD": "Eastvale city",
+            "OBJECTID": 27,
+            "Point_Count": 32,
+            "Shape__Area": 0.00331270435844999,
+            "Shape__Length": 0.351007861593261,
+            "Sum_Deceased": 2,
+            "X": -117.580261405229,
+            "Y": 33.9616943028684
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Murrieta",
+            "NAMELSAD": "Murrieta city",
+            "OBJECTID": 28,
+            "Point_Count": 49,
+            "Shape__Area": 0.00846278361336772,
+            "Shape__Length": 0.566936404812439,
+            "Sum_Deceased": 1,
+            "X": -117.190900447727,
+            "Y": 33.5719582690551
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Anza",
+            "NAMELSAD": "Anza CDP",
+            "OBJECTID": 30,
+            "Point_Count": 5,
+            "Shape__Area": 0.0069605904020591,
+            "Shape__Length": 0.497836581059345,
+            "Sum_Deceased": 0,
+            "X": -116.696625974495,
+            "Y": 33.5678478607969
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Bermuda Dunes",
+            "NAMELSAD": "Bermuda Dunes CDP",
+            "OBJECTID": 31,
+            "Point_Count": 3,
+            "Shape__Area": 0.000742498972158501,
+            "Shape__Length": 0.127887212668759,
+            "Sum_Deceased": 0,
+            "X": -116.287330119663,
+            "Y": 33.7435003514251
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Coronita",
+            "NAMELSAD": "Coronita CDP",
+            "OBJECTID": 32,
+            "Point_Count": 1,
+            "Shape__Area": 0.000151011442540039,
+            "Shape__Length": 0.101739555123324,
+            "Sum_Deceased": 0,
+            "X": -117.611010182501,
+            "Y": 33.8759205738537
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "East Hemet",
+            "NAMELSAD": "East Hemet CDP",
+            "OBJECTID": 33,
+            "Point_Count": 2,
+            "Shape__Area": 0.00131019654418196,
+            "Shape__Length": 0.182470223385228,
+            "Sum_Deceased": 0,
+            "X": -116.940991552948,
+            "Y": 33.7301397570115
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Cabazon",
+            "NAMELSAD": "Cabazon CDP",
+            "OBJECTID": 34,
+            "Point_Count": 0,
+            "Shape__Area": 0.00123525359435916,
+            "Shape__Length": 0.232346755240664,
+            "Sum_Deceased": 0,
+            "X": -116.782821611696,
+            "Y": 33.9127199041819
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Cherry Valley",
+            "NAMELSAD": "Cherry Valley CDP",
+            "OBJECTID": 35,
+            "Point_Count": 1,
+            "Shape__Area": 0.00202662344645432,
+            "Shape__Length": 0.278037042209754,
+            "Sum_Deceased": 0,
+            "X": -116.969405596021,
+            "Y": 33.9796797847783
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Desert Edge",
+            "NAMELSAD": "Desert Edge CDP",
+            "OBJECTID": 37,
+            "Point_Count": 2,
+            "Shape__Area": 0.000572595938820086,
+            "Shape__Length": 0.113906499601137,
+            "Sum_Deceased": 0,
+            "X": -116.440092763392,
+            "Y": 33.9222887688416
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Desert Palms",
+            "NAMELSAD": "Desert Palms CDP",
+            "OBJECTID": 38,
+            "Point_Count": 3,
+            "Shape__Area": 0.000673508842510273,
+            "Shape__Length": 0.12039162944889,
+            "Sum_Deceased": 0,
+            "X": -116.292943886893,
+            "Y": 33.7789433769264
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "El Cerrito",
+            "NAMELSAD": "El Cerrito CDP",
+            "OBJECTID": 39,
+            "Point_Count": 4,
+            "Shape__Area": 0.000708176829675722,
+            "Shape__Length": 0.164892410149948,
+            "Sum_Deceased": 0,
+            "X": -117.522165665787,
+            "Y": 33.8395752481856
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "El Sobrante",
+            "NAMELSAD": "El Sobrante CDP",
+            "OBJECTID": 40,
+            "Point_Count": 10,
+            "Shape__Area": 0.0018232713832731,
+            "Shape__Length": 0.25786345560245,
+            "Sum_Deceased": 0,
+            "X": -117.462514902654,
+            "Y": 33.8724552621627
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "French Valley",
+            "NAMELSAD": "French Valley CDP",
+            "OBJECTID": 41,
+            "Point_Count": 19,
+            "Shape__Area": 0.00273712841203633,
+            "Shape__Length": 0.274195658081003,
+            "Sum_Deceased": 0,
+            "X": -117.106940821918,
+            "Y": 33.5998484108465
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Good Hope",
+            "NAMELSAD": "Good Hope CDP",
+            "OBJECTID": 42,
+            "Point_Count": 5,
+            "Shape__Area": 0.00283171626165313,
+            "Shape__Length": 0.285477066035227,
+            "Sum_Deceased": 0,
+            "X": -117.277182774417,
+            "Y": 33.7706251251376
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Home Gardens",
+            "NAMELSAD": "Home Gardens CDP",
+            "OBJECTID": 43,
+            "Point_Count": 3,
+            "Shape__Area": 0.000381513093543617,
+            "Shape__Length": 0.118067566204148,
+            "Sum_Deceased": 0,
+            "X": -117.511535231675,
+            "Y": 33.8783665505031
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Idyllwild-Pine Cove",
+            "NAMELSAD": "Idyllwild-Pine Cove CDP",
+            "OBJECTID": 44,
+            "Point_Count": 3,
+            "Shape__Area": 0.00346065431176612,
+            "Shape__Length": 0.398534380431968,
+            "Sum_Deceased": 0,
+            "X": -116.725791611566,
+            "Y": 33.7443335302816
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Lakeland Village",
+            "NAMELSAD": "Lakeland Village CDP",
+            "OBJECTID": 45,
+            "Point_Count": 4,
+            "Shape__Area": 0.00227708785109826,
+            "Shape__Length": 0.429783905366918,
+            "Sum_Deceased": 0,
+            "X": -117.37061134501,
+            "Y": 33.64796861535
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Lakeview",
+            "NAMELSAD": "Lakeview CDP",
+            "OBJECTID": 46,
+            "Point_Count": 0,
+            "Shape__Area": 0.000822259769392986,
+            "Shape__Length": 0.130719859250471,
+            "Sum_Deceased": 0,
+            "X": -117.123333916037,
+            "Y": 33.8284653756888
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Garnet",
+            "NAMELSAD": "Garnet CDP",
+            "OBJECTID": 47,
+            "Point_Count": 3,
+            "Shape__Area": 0.00199077683214455,
+            "Shape__Length": 0.219954969145684,
+            "Sum_Deceased": 0,
+            "X": -116.479618515702,
+            "Y": 33.9178861507613
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Green Acres",
+            "NAMELSAD": "Green Acres CDP",
+            "OBJECTID": 48,
+            "Point_Count": 1,
+            "Shape__Area": 0.000352849611772399,
+            "Shape__Length": 0.0933939122867585,
+            "Sum_Deceased": 0,
+            "X": -117.078270797782,
+            "Y": 33.7349557109375
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Homeland",
+            "NAMELSAD": "Homeland CDP",
+            "OBJECTID": 49,
+            "Point_Count": 1,
+            "Shape__Area": 0.00107594839892045,
+            "Shape__Length": 0.147996497856393,
+            "Sum_Deceased": 0,
+            "X": -117.113241616166,
+            "Y": 33.7458787175719
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Lake Mathews",
+            "NAMELSAD": "Lake Mathews CDP",
+            "OBJECTID": 51,
+            "Point_Count": 1,
+            "Shape__Area": 0.00401742913186354,
+            "Shape__Length": 0.341395444646405,
+            "Sum_Deceased": 0,
+            "X": -117.368339827853,
+            "Y": 33.8249665233564
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Meadowbrook",
+            "NAMELSAD": "Meadowbrook CDP",
+            "OBJECTID": 54,
+            "Point_Count": 1,
+            "Shape__Area": 0.00169841007254945,
+            "Shape__Length": 0.199264886832981,
+            "Sum_Deceased": 0,
+            "X": -117.28512077227,
+            "Y": 33.7253125173673
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Mead Valley",
+            "NAMELSAD": "Mead Valley CDP",
+            "OBJECTID": 55,
+            "Point_Count": 10,
+            "Shape__Area": 0.00481407043798754,
+            "Shape__Length": 0.337098322267519,
+            "Sum_Deceased": 0,
+            "X": -117.285213969912,
+            "Y": 33.8333255542316
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Mecca",
+            "NAMELSAD": "Mecca CDP",
+            "OBJECTID": 56,
+            "Point_Count": 4,
+            "Shape__Area": 0.00175028689045575,
+            "Shape__Length": 0.187672773608866,
+            "Sum_Deceased": 0,
+            "X": -116.064508096061,
+            "Y": 33.5767018382904
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "North Shore",
+            "NAMELSAD": "North Shore CDP",
+            "OBJECTID": 60,
+            "Point_Count": 0,
+            "Shape__Area": 0.00281103159591112,
+            "Shape__Length": 0.308156114353789,
+            "Sum_Deceased": 0,
+            "X": -115.909239210009,
+            "Y": 33.5156712746185
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Nuevo",
+            "NAMELSAD": "Nuevo CDP",
+            "OBJECTID": 61,
+            "Point_Count": 3,
+            "Shape__Area": 0.00170752541862385,
+            "Shape__Length": 0.245590660960763,
+            "Sum_Deceased": 0,
+            "X": -117.141396269943,
+            "Y": 33.8011412816852
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Oasis",
+            "NAMELSAD": "Oasis CDP",
+            "OBJECTID": 62,
+            "Point_Count": 3,
+            "Shape__Area": 0.00493476841256779,
+            "Shape__Length": 0.413660567747896,
+            "Sum_Deceased": 0,
+            "X": -116.126115233522,
+            "Y": 33.527522579571
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Romoland",
+            "NAMELSAD": "Romoland CDP",
+            "OBJECTID": 64,
+            "Point_Count": 0,
+            "Shape__Area": 0.000666520607865095,
+            "Shape__Length": 0.134413086457512,
+            "Sum_Deceased": 0,
+            "X": -117.157133862787,
+            "Y": 33.7647628757621
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Sky Valley",
+            "NAMELSAD": "Sky Valley CDP",
+            "OBJECTID": 65,
+            "Point_Count": 1,
+            "Shape__Area": 0.00613874506166212,
+            "Shape__Length": 0.50482757484488,
+            "Sum_Deceased": 0,
+            "X": -116.355050055666,
+            "Y": 33.8912400782383
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Thermal",
+            "NAMELSAD": "Thermal CDP",
+            "OBJECTID": 66,
+            "Point_Count": 2,
+            "Shape__Area": 0.00236146812108018,
+            "Shape__Length": 0.267023320381307,
+            "Sum_Deceased": 0,
+            "X": -116.130835879237,
+            "Y": 33.6261932586212
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Thousand Palms",
+            "NAMELSAD": "Thousand Palms CDP",
+            "OBJECTID": 67,
+            "Point_Count": 2,
+            "Shape__Area": 0.00596237031004421,
+            "Shape__Length": 0.363558315201583,
+            "Sum_Deceased": 0,
+            "X": -116.354472510386,
+            "Y": 33.8149715538696
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Valle Vista",
+            "NAMELSAD": "Valle Vista CDP",
+            "OBJECTID": 68,
+            "Point_Count": 2,
+            "Shape__Area": 0.00178390847236187,
+            "Shape__Length": 0.245008021250119,
+            "Sum_Deceased": 0,
+            "X": -116.887115337325,
+            "Y": 33.7436066200667
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Winchester",
+            "NAMELSAD": "Winchester CDP",
+            "OBJECTID": 70,
+            "Point_Count": 0,
+            "Shape__Area": 0.00201724156409,
+            "Shape__Length": 0.257243957997748,
+            "Sum_Deceased": 0,
+            "X": -117.077438136304,
+            "Y": 33.7146035135652
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Woodcrest",
+            "NAMELSAD": "Woodcrest CDP",
+            "OBJECTID": 71,
+            "Point_Count": 6,
+            "Shape__Area": 0.00287160193579439,
+            "Shape__Length": 0.39174077682103,
+            "Sum_Deceased": 0,
+            "X": -117.36860632485,
+            "Y": 33.8789287834509
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Temescal Valley",
+            "NAMELSAD": "Temescal Valley CDP",
+            "OBJECTID": 72,
+            "Point_Count": 8,
+            "Shape__Area": 0.0048838111410987,
+            "Shape__Length": 0.587528624044479,
+            "Sum_Deceased": 0,
+            "X": -117.467683003355,
+            "Y": 33.7580583385075
+        }
+    },
+    {
+        "attributes": {
+            "NAME": "Vista Santa Rosa",
+            "NAMELSAD": "Vista Santa Rosa CDP",
+            "OBJECTID": 73,
+            "Point_Count": 0,
+            "Shape__Area": 0.00404799515467857,
+            "Shape__Length": 0.375955711530603,
+            "Sum_Deceased": 0,
+            "X": -116.212579195278,
+            "Y": 33.6226503320897
+        }
+    }
+]
