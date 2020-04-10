@@ -4,7 +4,9 @@
 
 ### Tech
 
-This project is using the p5.js library. 
+This project is using the p5.js library and mapp.js.org.
+
+To learn more about how to add markers or how to customize the map and animate it, you can look here https://mappa.js.org/docs/introduction-to-web-maps.html to get started!
 
 
 
@@ -31,6 +33,7 @@ If you dont want to use git, then just click on the "clone or download" button a
  - Set borders to cities
  - Set border to Riverside County
  - Allow user to click on circle and see the information associated with it.
+ - Possibly add more features other than a map?
  - Possibly animate the circles in some way?
 
 
