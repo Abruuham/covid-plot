@@ -4,21 +4,17 @@ var geoData;
 var boundary;
 let city_limit;
 let padding = 20;
-
-
-
-
-
+let div;
 // MapBox API token
-const api_key = "pk.eyJ1IjoiYWJydXVoYW0iLCJhIjoiY2syOGVmaG1mMmN4czNjbjBsYWV4cDdzNCJ9.6NghjtRZIC0qfBvrAqLN1Q"
-//const api_key = "API_KEY";
+const api_key = "API_KEY";
+
 
 
 const options = {
   lat: 33.690545,
   lng: -116.143049,
   zoom: 8,
-  studio: false,
+  studio: true,
   style: 'mapbox://styles/mapbox/traffic-night-v2',
   
 };
@@ -44,15 +40,60 @@ function preload(){
 function setup() {
   
   city_limit = getBoundingBox(boundary);
-  
+  console.log(options.style);
   canvas = createCanvas(screen.width,screen.height);
   myMap = mappa.tileMap(options);
   myMap.overlay(canvas);
   myMap.onChange(drawCases);
-
-  
+  div = createDiv("");  
 
 }
+
+function createADiv(){
+  div.style('position','absolute');
+  div.style('box-shadow', '0px 13px 10px black');
+  div.style('height','75px');
+  div.style('width','150px');
+  div.style('color','#888');
+  div.style('border', '1px solid #888');
+  div.style('border-radius','12px');
+  div.style('text-align','left');
+  div.style('padding', '10px 10px ');
+  div.style('background-color', 'rgb(0,0,0)'); /* Fallback color */
+  div.style('background-color', 'rgba(255,255,255)'); /* Black w/ opacity */
+
+}
+
+
+function mousePressed(){
+  div.hide();
+  removeElements();
+  for(var i = 0; i < Object.keys(covidData).length; i++)
+  {
+
+    const latitude = covidData[i]["attributes"]["Y"];
+    const longitude = covidData[i]["attributes"]["X"];
+
+
+    //if (myMap.map.getBounds().contains([latitude, longitude])) {
+      // Transform lat/lng to pixel position
+      const pos = myMap.latLngToPixel(latitude, longitude);
+      let size = covidData[i]["attributes"]["Point_Count"];
+      size = map(size, 0, covidData[0]["attributes"]["Point_Count"], 1, 25) + myMap.zoom();
+
+     let d = dist(mouseX, mouseY, pos.x,pos.y);
+     if(d < (size/2)){
+       div = createDiv("City: " + covidData[i]["attributes"]["NAME"] + "<br> Cases: " 
+       + covidData[i]["attributes"]["Point_Count"] +"<br> Deaths: " + covidData[i]["attributes"]["Sum_Deceased"] );
+       createADiv();
+       div.position(pos.x,pos.y);
+       div.show()
+     }
+  }
+}
+
+
+
 
 
 
@@ -77,19 +118,17 @@ function getBoundingBox (boundary) {
 }
 
 function draw(){
-  
-
-
-
 }
+
+
 
 /********************* 
  * funcion to draw the cases on the map.
 *********************/
 function drawCases(){
   clear();
-
-    
+  
+  div.hide();
   let data = boundary[0].the_geom.coordinates[0];
   stroke(255);
   fill(100,100,100, 50);
@@ -115,19 +154,19 @@ function drawCases(){
 
     const latitude = covidData[i]["attributes"]["Y"];
     const longitude = covidData[i]["attributes"]["X"];
-
+    
 
     //if (myMap.map.getBounds().contains([latitude, longitude])) {
       // Transform lat/lng to pixel position
       const pos = myMap.latLngToPixel(latitude, longitude);
-
+      
       //map(value, start1, stop1, start2, stop2)
       let size = covidData[i]["attributes"]["Point_Count"];
       size = map(size, 0, covidData[0]["attributes"]["Point_Count"], 1, 25) + myMap.zoom();
-      ellipse(pos.x, pos.y, size, size);
-    
- 
-   
-  }
-}
+      ellipse(pos.x, pos.y, size, size);     
 
+      
+      }
+
+  }
+  
